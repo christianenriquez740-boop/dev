@@ -1,8 +1,8 @@
 {
-  "name": "sendpulse-api",
+  "name": "senpulse-api",
   "version": "1.0.0",
+  "description": "API para integrar SendPulse con Telegram",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
